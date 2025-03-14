@@ -1,1 +1,0 @@
-model = pickle.load(open('train.pkl', 'rb'))

@@ -25,7 +25,7 @@ This project is a Machine Learning-based system designed to predict false alarms
 
 Step 1: Clone the Repository
 
-git clone https://github.com/YourUsername/False-Alarm-Detection-System.git
+git clone https://github.com/sarthakhadawale/False-Alarm-Detection-System.git
 cd False-Alarm-Detection-System
 
 Step 2: Create a Virtual Environment
